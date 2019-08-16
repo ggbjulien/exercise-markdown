@@ -6,7 +6,7 @@
 
 * Collaborateurs
 
-	*Laly
-	*Julio
-	*Chin
+	*Laly  
+	*Julio  
+	*Chin  
 
