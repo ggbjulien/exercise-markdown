@@ -1,3 +1,3 @@
-![MarkDown Logo](/Download/md.png)
+(/exercise-markdown/md.png)
 
-![MarkDown Logo](/Download/no.gif)
+(/exercise-markdown/no.gif)
