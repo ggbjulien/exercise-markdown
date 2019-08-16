@@ -1,3 +1,3 @@
-![MD](/exercise-markdown/md.png)
+![MD](/exercise-markdown/md.png?raw=true)
 
-![GIF](/exercise-markdown/no.gif)
+![GIF](/exercise-markdown/no.gif?raw=true)
