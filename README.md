@@ -5,3 +5,5 @@ a utiliser le language MarkDown, qui est assez utile pour creer des pages README
 
 [Lien vers dossier markdown](markdown.md)
 
+[becode](https://medium.com/becode/latest)
+
