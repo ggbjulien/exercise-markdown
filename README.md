@@ -5,5 +5,7 @@ a utiliser le language MarkDown, qui est assez utile pour creer des pages README
 
 [Lien vers dossier markdown](markdown.md)
 
-[becode](https://medium.com/becode/latest)
+<img src ='https://medium.com/becode/latest'>
 
+### Exemple de choses qu'on peut faire avec le MarkDown
+```html <img src ='https://medium.com/becode/latest'> ```
