@@ -1,3 +1,4 @@
-![MD](/exercise-markdown/md.png?raw=true)
+Reference-style: 
+![alt text][logo]
 
-![GIF](/exercise-markdown/no.gif?raw=true)
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
