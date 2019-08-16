@@ -12,6 +12,7 @@ Voici un exemple d'une image <span style="color:blue;">**statique**</span>:
 ```javascript
 alert("Hello julien");
 const usayHello = (name) => console.log("Hi "+name);
+```
 
 ## PHP
-<php echo "Hi en PHP"; ?>
+Le code pour afficher un texte en PHP:```<php echo "Hi en PHP"; ?>```
