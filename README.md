@@ -1,6 +1,12 @@
-*Master : Julien
+#List 
 
-*Collabo: Laly
-	  Yongchin
-	  Julio
- 
+* Master
+
+	*Julien
+
+* Collaborateurs
+
+	*Laly
+	*Julio
+	*Chin
+
