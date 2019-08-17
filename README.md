@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pourquoi ce repo existe?
 
 * Ce répositoire est notre premier exercice de groupe. Nous sommes 4 BeCodiens de Bruxelles.
