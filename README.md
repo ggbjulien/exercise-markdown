@@ -25,4 +25,3 @@ notre coté et puis de merger tous nos fichiers ensemble
 ```html <img src ='https://medium.com/becode/latest'> ```
 
 [Lien vers dossier markdown](markdown.md)
->>>>>>> e4e028a4513ddd9a0357b215eacb272694cf4bf0
