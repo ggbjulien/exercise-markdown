@@ -26,7 +26,7 @@ const usayHello = (name) => console.log("Hi "+name);
 Le code pour afficher un texte en PHP:```<php echo "Hi en PHP"; ?>```
 
 
-## Autres
+## Autres exemples
 
 # Blockquote
 
