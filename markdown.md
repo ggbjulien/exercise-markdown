@@ -16,3 +16,5 @@ const usayHello = (name) => console.log("Hi "+name);
 
 ## PHP
 Le code pour afficher un texte en PHP:```<php echo "Hi en PHP"; ?>```
+
+Ajout GIF ![Petit chat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
