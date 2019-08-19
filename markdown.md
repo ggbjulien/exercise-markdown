@@ -35,3 +35,6 @@ Le code pour afficher un texte en PHP:```<php echo "Hi en PHP"; ?>```
 # Un lien
 
 [Aide MarkDown](https://www.disturbancesinthewash.net/journal/2012/8/11/how-to-add-an-image-with-link-in-markdown.html)
+
+[lien vers README.md](https://github.com/ggbjulien/exercise-markdown/blob/master/README.md)
+
